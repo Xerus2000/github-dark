@@ -226,6 +226,10 @@ button.dropdown-item.dropdown-signout {
     border-color: var(--border-color);
 }
 
+.header-search-wrapper {
+    background-color: var(--depth-color) !important;
+}
+
 /* Home */
 
 .news .alert {
